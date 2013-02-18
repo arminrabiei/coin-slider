@@ -20,7 +20,6 @@
 		interval	= [],
 		imagePos	= [],
 		appInterval	= [],
-		squarePos	= [],
 		reverse		= [];
 
 	$.fn.coinslider = $.fn.CoinSlider = function (options) {
